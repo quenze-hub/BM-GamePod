@@ -6,8 +6,8 @@ BM-GamePod Mods &amp; software
 
 TETORIS
 
-ボタン追加の改造が必要です。
-<img src=tetoris/image2.jpg width='400'>
+ボタン追加の改造が必要です。<br>
+<img src=tetoris/image2.jpg width='400'><br>
 同じ形のボタンを追加
 A4とボタンを接続
 GNDから分岐してボタンに接続
