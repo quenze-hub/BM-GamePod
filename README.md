@@ -7,6 +7,8 @@ BM-GamePod Mods &amp; software
 TETORIS
 
 ボタン追加の改造が必要です。
+![変更した内容]("")
+
 
 ゲームの操作方法
 左ボタン: 左に移動  ゲーム開始
