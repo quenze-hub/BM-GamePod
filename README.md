@@ -7,7 +7,7 @@ BM-GamePod Mods &amp; software
 TETORIS
 
 ボタン追加の改造が必要です。
-!["改造た写真"]("/tetoris/image2.jpg")
+!["改造した写真"]("tetoris/image2.jpg")
 
 同じ形のボタンを追加
 A4とボタンを接続
