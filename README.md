@@ -7,7 +7,7 @@ BM-GamePod Mods &amp; software
 TETORISを縦で遊ぶためにボタン追加の改造と穴あけが必要です。<br>
 <img src=tetoris/image2.jpg width='400'><br>
 同じ形のボタンを追加<br>
-A4とボタンを接続<br>
+A3とボタンを接続<br>
 GNDから分岐してボタンに接続<br>
 スピーカーがうるさいので手元にあった330Ωをを追加（音が小さいのでもうちょっと抵抗値が低いほうがいいかも）<br>
 
