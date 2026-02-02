@@ -7,7 +7,7 @@ BM-GamePod Mods &amp; software
 [青学つくまなラボの石原様](https://github.com/champierre/bread_maker_samples)のTETORISに追加して音を出すようにしました。<BR>
 
 TETORISを縦で遊ぶためにボタン追加の改造と穴あけが必要です。<br>
-<img src=tetoris/image2.jpg width='800'><br>
+<img src=tetoris/image2.jpg width='600'><br>
 同じ形のボタンを追加<br>
 A3とボタンを接続<br>
 GNDから分岐してボタンに接続<br>
