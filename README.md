@@ -7,7 +7,7 @@ BM-GamePod Mods &amp; software
 TETORIS
 
 ボタン追加の改造が必要です。
-![変更した内容]("")
+![変更した内容]("tetoris/image2.jpg")
 
 
 ゲームの操作方法
