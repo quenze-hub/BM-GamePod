@@ -4,7 +4,7 @@ BM-GamePod Mods &amp; software
 このゲームは、ブレッドボード上で動く簡単ゲーム機 BREAD MAKER(Yugi Tech Lab) で動作します。
 システム構成、材料、作り方の詳細は [BREAD MAKER ブレッドボードで簡単ゲーム作成！！ | ProtoPedia](https://protopedia.net/prototype/7594)を参照してください。
 
-[青学つくまなラボの石原様](https://github.com/champierre/bread_maker_samples)のTETORISに追加して音を出すようにしました。<BR>
+[青学つくまなラボの石原様](https://github.com/champierre/bread_maker_samples)を改造して音を出すようにしました。<BR>
 
 TETORISを縦で遊ぶためにボタン追加の改造と穴あけが必要です。<br>
 <img src=tetoris/image2.jpg width='600'><br>
@@ -29,3 +29,4 @@ https://www.youtube.com/watch?v=LWtzs1KUkg4
 invador7 左ボタン+右ボタン:発射 だんだん速くなります<br>
 invador4 左ボタン+右ボタン:発射<br>
 invador3 弾は自動発射です<br>
+https://www.youtube.com/watch?v=g6JV8ZInFSM
