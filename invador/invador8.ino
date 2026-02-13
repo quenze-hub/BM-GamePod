@@ -255,6 +255,9 @@ void loop() {
   }    
   if (gameOver ) {
     displayEndScreen();
+    //while( (digitalRead(LEFT_BUTTON_PIN) == LOW || digitalRead(RIGHT_BUTTON_PIN) == LOW ) ){
+    //  delay(50);
+    //}
     demo=0;
     // 左ボタンでリスタート
     if (digitalRead(LEFT_BUTTON_PIN) == LOW) {
@@ -499,6 +502,9 @@ void displayEndScreen() {
     display.setCursor(10, 50);
     display.setTextSize(1);
     display.print("LEFT to restart");
+    while( (digitalRead(LEFT_BUTTON_PIN) == LOW || digitalRead(RIGHT_BUTTON_PIN) == LOW ) ){
+      delay(50);
+    }
   }
 
   display.setTextSize(1);
