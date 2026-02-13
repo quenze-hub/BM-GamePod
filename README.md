@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=LWtzs1KUkg4
 invador8 左ボタン+右ボタン:発射 だんだん速くなります<br>
 invador4 左ボタン+右ボタン:発射<br>
 invador3 弾は自動発射です<br>
-https://www.youtube.com/watch?v=g6JV8ZInFSM
+https://youtu.be/SxKb1W25aGQ
