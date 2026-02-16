@@ -13,7 +13,7 @@ A3とボタンを接続<br>
 GNDから分岐してボタンに接続<br>
 スピーカーの音量を下げるため手元にあった330Ωをを追加（音が小さいのでもうちょっと抵抗値が低いほうがいいかも）<br>
 
-<b>tetris</b><br>
+<b>TETORIS</b><br>
 ゲームの操作方法<br>
 左ボタン: 左に移動  ゲーム開始<br>
 右ボタン: 右に移動 <br>
@@ -22,7 +22,7 @@ GNDから分岐してボタンに接続<br>
 素直に作ると曲のサイズが大きくて、コンパイルは問題ないのにメモリ不足でうまく動きませんでした。そのためソースが汚くなっています。<br>
 https://www.youtube.com/watch?v=LWtzs1KUkg4
 
-<b>invador</b><br>
+<b>INVADOR</b><br>
 ゲームの操作方法<br>
 左ボタン: 左に移動  ゲーム開始<br>
 右ボタン: 右に移動 <br>
@@ -31,5 +31,8 @@ invador4 左ボタン+右ボタン:発射<br>
 invador3 弾は自動発射です<br>
 https://youtu.be/SxKb1W25aGQ
 
-さらに改造　電池パックでどこでも遊べる！<br>
+さらに改造　<b>電池パックでどこでも遊べる！</b><br>
+<img src=battery/1.jpg width='600'><br>
+<img src=battery/2.jpg width='600'><br>
+<img src=battery/3.jpg width='600'><br>
 
