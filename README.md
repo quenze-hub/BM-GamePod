@@ -30,3 +30,6 @@ invador8 左ボタン+右ボタン:発射 だんだん速くなります<br>
 invador4 左ボタン+右ボタン:発射<br>
 invador3 弾は自動発射です<br>
 https://youtu.be/SxKb1W25aGQ
+
+さらに改造　電池パックでどこでも遊べる！<br>
+
