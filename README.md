@@ -27,12 +27,10 @@ https://www.youtube.com/watch?v=LWtzs1KUkg4
 左ボタン: 左に移動  ゲーム開始<br>
 右ボタン: 右に移動 <br>
 invador8 左ボタン+右ボタン:発射 だんだん速くなります<br>
-invador4 左ボタン+右ボタン:発射<br>
-invador3 弾は自動発射です<br>
 https://youtu.be/SxKb1W25aGQ
-
-
-
+<br>
+<br>
+<br>
 さらに改造　<b>電池パックでどこでも遊べる！</b><br>
 配線<br>
 マイナスをGNDに接続（GNDであればどこでもいい）<br>
