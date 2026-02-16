@@ -31,6 +31,8 @@ invador4 左ボタン+右ボタン:発射<br>
 invador3 弾は自動発射です<br>
 https://youtu.be/SxKb1W25aGQ
 
+
+
 さらに改造　<b>電池パックでどこでも遊べる！</b><br>
 配線<br>
 マイナスをGNDに接続（GNDであればどこでもいい）<br>
@@ -42,3 +44,4 @@ https://youtu.be/SxKb1W25aGQ
 裏側に両面テープで固定<br>
 <img src=battery/1.JPG width='300'><br>
 PCからのUSBケーブルが不要になり遊びやすい。
+
