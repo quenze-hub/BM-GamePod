@@ -33,9 +33,12 @@ https://youtu.be/SxKb1W25aGQ
 
 さらに改造　<b>電池パックでどこでも遊べる！</b><br>
 配線<br>
+マイナスをGNDに接続（GNDであればどこでもいい）<br>
+プラスをVINに接続（電圧をいい具合にしてくれるらしい）<br>
+右側にプラスの線を通すスペースがないので、スピーカーにつながる線を左側を通すようにしました<br>
 <img src=battery/2.JPG width='600'><br>
-配線<br>
+スイッチ付きのケースにしたのでON/OFFできます。<br>
 <img src=battery/3.JPG width='600'><br>
 裏側に両面テープで固定<br>
 <img src=battery/1.JPG width='300'><br>
-
+PCからのUSBケーブルが不要になり遊びやすい。
