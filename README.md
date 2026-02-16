@@ -32,7 +32,10 @@ invador3 弾は自動発射です<br>
 https://youtu.be/SxKb1W25aGQ
 
 さらに改造　<b>電池パックでどこでも遊べる！</b><br>
-<img src=battery/1.JPG width='600'><br>
+配線<br>
 <img src=battery/2.JPG width='600'><br>
+配線<br>
 <img src=battery/3.JPG width='600'><br>
+裏側に両面テープで固定<br>
+<img src=battery/1.JPG width='300'><br>
 
