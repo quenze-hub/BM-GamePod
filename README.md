@@ -6,14 +6,14 @@ BM-GamePod Mods &amp; software
 
 [青学つくまなラボの石原様](https://github.com/champierre/bread_maker_samples)を改造して音を出すようにしました。<BR>
 
-TETORISを縦で遊ぶためにボタン追加の改造と穴あけが必要です。<br>
+落ちゲーを縦で遊ぶためにボタン追加の改造と穴あけが必要です。<br>
 <img src=tetoris/image2.jpg width='600'><br>
 同じ形のボタンを追加<br>
 A3とボタンを接続<br>
 GNDから分岐してボタンに接続<br>
 スピーカーの音量を下げるため手元にあった330Ωをを追加（音が小さいのでもうちょっと抵抗値が低いほうがいいかも）<br>
 
-<b>TETORIS</b><br>
+<b>落ちゲー</b><br>
 ゲームの操作方法<br>
 左ボタン: 左に移動  ゲーム開始<br>
 右ボタン: 右に移動 <br>
@@ -22,11 +22,11 @@ GNDから分岐してボタンに接続<br>
 素直に作ると曲のサイズが大きくて、コンパイルは問題ないのにメモリ不足でうまく動きませんでした。そのためソースが汚くなっています。<br>
 https://www.youtube.com/watch?v=LWtzs1KUkg4
 
-<b>INVADOR</b><br>
+<b>侵略ゲー</b><br>
 ゲームの操作方法<br>
 左ボタン: 左に移動  ゲーム開始<br>
 右ボタン: 右に移動 <br>
-invador8 左ボタン+右ボタン:発射 だんだん速くなります<br>
+左ボタン+右ボタン:発射 だんだん速くなります<br>
 https://youtu.be/SxKb1W25aGQ
 <br>
 <br>
