@@ -1,3 +1,6 @@
+#さらに改造した<a href=../QZ-GamePod>QZ-GamePod</a>があります
+<br>
+<br>
 # BM-GamePod
 BM-GamePod Mods &amp; software
 
