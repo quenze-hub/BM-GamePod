@@ -1,4 +1,4 @@
-#さらに改造した<a href=../QZ-GamePod>QZ-GamePod</a>があります
+<b>さらに改造した<a href=https://github.com/quenze-hub/QZ-GamePod>QZ-GamePod</a>があります</b>
 <br>
 <br>
 # BM-GamePod
