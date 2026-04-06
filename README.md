@@ -1,4 +1,4 @@
-<b>さらに改造した<a href=https://github.com/quenze-hub/QZ-GamePod>QZ-GamePod</a>があります</b>
+<b>さらに改造した<a href=https://github.com/quenze-hub/qnze-gamepad>qnze-GamePod</a>があります</b>
 <br>
 <br>
 # BM-GamePod
